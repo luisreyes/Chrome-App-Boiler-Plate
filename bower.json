@@ -1,0 +1,9 @@
+{
+  "name": "gluco",
+  "version": "0.0.0",
+  "dependencies": {
+    "fontawesome": "~4.3.0",
+    "bootstrap": "~3.3.2"
+  },
+  "devDependencies": {}
+}

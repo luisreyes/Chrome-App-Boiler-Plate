@@ -1,0 +1,10 @@
+{
+    "appName": {
+        "message": "Gluco",
+        "description": "The name of the application"
+    },
+    "appDescription": {
+        "message": "Keep track of your intake and glucose levels to better manage your diabetes.",
+        "description": "The description of the application"
+    }
+}

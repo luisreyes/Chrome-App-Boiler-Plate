@@ -1,0 +1,11 @@
+{
+	"version": 3,
+	"file": "gluco.css",
+	"sources": [
+		"../../dev/styles/gluco.scss",
+		"../../dev/styles/_variables.scss"
+	],
+	"sourcesContent": [],
+	"mappings": "AACA,AAAM,ACDK",
+	"names": []
+}
